@@ -14,8 +14,7 @@ see "Generating a new SSH key and adding it to the ssh-agent", "Adding a new SSH
 
 nb: *the above text is from github documentation about ssh. Fully copied, nothing changed*
 
-**Below are the steps to use github ssh **
-** also the steps to solve: **
+**Below are the steps to use github ssh also the steps to solve the below error: **
 - git@github.com: Permission denied (publickey).
 - fatal: Could not read from remote repository.
 
